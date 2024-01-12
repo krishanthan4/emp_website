@@ -21,6 +21,10 @@
 		<link rel="stylesheet" href="assets/css/bootsnav.css" >	
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/responsive.css">
+		<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
 
 
         <script>

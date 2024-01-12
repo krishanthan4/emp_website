@@ -9,5 +9,6 @@ return [
     "/board-of-directors"=>"./views/pages/boardOfDirectors.php",
     "/contact"=>"./views/pages/contact.php",
     "/client-reviews"=>"./views/pages/clientReviews.php",
+    "/thanks"=>"./views/pages/thanks.php",
 ];
 ?>

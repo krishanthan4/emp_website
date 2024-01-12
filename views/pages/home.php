@@ -24,7 +24,7 @@
 }
 </style>
 <div class="tw-h-screen tw-flex tw-justify-center tw-bg-cover  tw-items-center tw-flex-col jumbtron tw-gap-10">
-    <h1 class="tw-text-white  tw-text-8xl">Welcome to Tropical Elixar</h1>
+    <h1 class="tw-text-white tw-text-center tw-text-5xl md:tw-text-8xl">Welcome to Tropical Elixar</h1>
     <p class="tw-text-3xl tw-text-slate-200">Discover the Refreshing Taste of Coconut Water</p>
     <p><a class="btn hover:tw-text-white tw-bg-blue-500 tw-text-white tw-mt-20 hover:tw-mt-20 hover:tw-p-5 hover:tw btn-lg" href="/contact" role="button">Contact Us</a></p>
 </div>
@@ -89,7 +89,7 @@
 
         <div class="testimonial-carousel">
 
-            <a href="/business-model" class="single-testimonial-box focus:tw-outline-none  tw-flex tw-flex-col tw-justify-center tw-items-center">
+            <a href="/business-model" class="single-testimonial-box tw-rounded-2xl tw-overflow-hidden focus:tw-outline-none  tw-flex tw-flex-col tw-justify-center tw-items-center">
                 <div class="tw-w-full tw-h-full tw-z-20">
                     <p class="tw-font-bold tw-py-3 tw-text-3xl text-center">Business Model</p>
                 </div>
@@ -97,7 +97,7 @@
                     class=" tw-h-full" alt="clients">
 
 </a>
-            <a href="/products" class="single-testimonial-box focus:tw-outline-none  tw-flex tw-flex-col tw-justify-center tw-items-center">
+            <a href="/products" class="single-testimonial-box tw-rounded-2xl tw-overflow-hidden focus:tw-outline-none  tw-flex tw-flex-col tw-justify-center tw-items-center">
                 <div class="tw-w-full tw-h-full tw-z-20">
                     <p class="tw-font-bold tw-py-3 tw-text-3xl text-center">Products</p>
                 </div>
@@ -105,7 +105,7 @@
                     class="tw-rounded-md tw-background-cover tw-h-full" alt="clients">
 
 </a>
-            <a href="/our-approach" class="focus:tw-outline-none single-testimonial-box tw-flex tw-flex-col tw-justify-center tw-items-center">
+            <a href="/our-approach" class="focus:tw-outline-none single-testimonial-box tw-rounded-2xl tw-overflow-hidden tw-flex tw-flex-col tw-justify-center tw-items-center">
                 <div class="tw-w-full tw-h-full tw-z-20">
                     <p class="tw-font-bold tw-py-3 tw-text-3xl text-center">Our Approach</p>
                 </div>
@@ -113,7 +113,7 @@
                     class=" tw-h-full" alt="clients">
 
 </a>
-            <a href="/client-reviews" class="single-testimonial-box focus:tw-outline-none  tw-flex tw-flex-col tw-justify-center tw-items-center">
+            <a href="/client-reviews" class="single-testimonial-box tw-rounded-2xl tw-overflow-hidden focus:tw-outline-none  tw-flex tw-flex-col tw-justify-center tw-items-center">
                 <div class="tw-w-full tw-h-full tw-z-20">
                     <p class="tw-font-bold tw-py-3 tw-text-3xl text-center">Testimonial</p>
                 </div>
@@ -121,7 +121,7 @@
                     class=" tw-h-full" alt="clients">
 
 </a>
-            <a href="/board-of-directors" class="single-testimonial-box focus:tw-outline-none  tw-flex tw-flex-col tw-justify-center tw-items-center">
+            <a href="/board-of-directors" class="single-testimonial-box tw-rounded-2xl tw-overflow-hidden focus:tw-outline-none  tw-flex tw-flex-col tw-justify-center tw-items-center">
                 <div class="tw-w-full tw-h-full tw-z-20">
                     <p class="tw-font-bold tw-py-3 tw-text-3xl text-center">Board Of Directors</p>
                 </div>

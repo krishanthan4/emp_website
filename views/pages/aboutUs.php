@@ -70,7 +70,14 @@ require_once "views/partials/header.php";
     </div>
     </div>
 </div>
-<a href="/client-reviews" class=" tw-bg-gradient-to-r hover:tw-py-3 tw-py-3 tw-from-red-300 tw-to-blue-300 tw-w-screen hover:tw-text-white tw-cursor-pointer text-muted tw-text-center">What our clients say</a>
+<div class="tw-text-center">
+    <button class="btn btn-warning tw-py-5 tw-mt-8">
+    <a href="/client-reviews" class="tw-text-white hover:tw-text-white">What our clients say</a>
+
+    </button>
+
+</div>
+
 <?php
 require_once "views/partials/footer.php";
 ?>
